@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 018dbd1b223f4593a8dac29b77559084, type: 3}
+  m_Name: TestDialogue
+  m_EditorClassIdentifier: 
+  serializedNodes: []
+  nodes:
+  - rid: 1428245109272215552
+  - rid: 1428245109272215554
+  - rid: 1428245109272215557
+  - rid: 1428245109272215559
+  - rid: 1428245109272215561
+  - rid: 1428245109272215563
+  - rid: 1428245109272215564
+  - rid: 1428245109272215565
+  - rid: 1428245170716409856
+  edges:
+  - GUID: 95a3c0eb-a8f6-4350-965b-e37d7b8519fb
+    owner: {fileID: 11400000}
+    inputNodeGUID: 98fe2438-1213-409a-a8c5-2586460c38fb
+    outputNodeGUID: d7d5b32d-f8e6-479a-8545-9415a5f442b3
+    inputFieldName: Input
+    outputFieldName: next
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: dada9e04-868f-46e7-86eb-e5cabc68f762
+    owner: {fileID: 11400000}
+    inputNodeGUID: 94cb5272-8706-4787-b5dc-e105a9e12385
+    outputNodeGUID: 98fe2438-1213-409a-a8c5-2586460c38fb
+    inputFieldName: Input
+    outputFieldName: next
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 03779f3d-f117-40d8-9406-f34a996277b9
+    owner: {fileID: 11400000}
+    inputNodeGUID: 716c61ba-56b9-4840-ad04-a9abbbaf76c0
+    outputNodeGUID: 94cb5272-8706-4787-b5dc-e105a9e12385
+    inputFieldName: Input
+    outputFieldName: option1
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 35fb5b5f-52b1-4b79-b9aa-852fed8e3f72
+    owner: {fileID: 11400000}
+    inputNodeGUID: 13cf06d1-4a8c-48b6-9f81-344778760310
+    outputNodeGUID: 38f62d5e-25a0-41c5-9e76-e0bdf2381aaa
+    inputFieldName: Input
+    outputFieldName: next
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 583f04b2-0014-442f-b1e5-151c34400f10
+    owner: {fileID: 11400000}
+    inputNodeGUID: 38f62d5e-25a0-41c5-9e76-e0bdf2381aaa
+    outputNodeGUID: 94cb5272-8706-4787-b5dc-e105a9e12385
+    inputFieldName: Input
+    outputFieldName: option2
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 81cc5977-2e69-4185-8f28-b1c92255f14c
+    owner: {fileID: 11400000}
+    inputNodeGUID: a289404f-30d1-4564-a2ab-acb788815b28
+    outputNodeGUID: 1bb374af-e16b-4a84-a884-37598e6a24f6
+    inputFieldName: Input
+    outputFieldName: next
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: fbb22630-688a-483d-8cb6-7f2cc044a87c
+    owner: {fileID: 11400000}
+    inputNodeGUID: 1bb374af-e16b-4a84-a884-37598e6a24f6
+    outputNodeGUID: 716c61ba-56b9-4840-ad04-a9abbbaf76c0
+    inputFieldName: Input
+    outputFieldName: next
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  groups: []
+  stackNodes: []
+  pinnedElements: []
+  exposedParameters: []
+  serializedParameterList: []
+  stickyNotes: []
+  nodeInspectorReference: {fileID: 0}
+  position: {x: 14.5, y: 191.5, z: 0}
+  scale: {x: 0.65751624, y: 0.65751624, z: 1}
+  references:
+    version: 2
+    RefIds:
+    - rid: 1428245109272215552
+      type: {class: StartNode, ns: , asm: Framework.Dialogue}
+      data:
+        nodeCustomName: 
+        GUID: d7d5b32d-f8e6-479a-8545-9415a5f442b3
+        computeOrder: 0
+        outputOrder: 01000000
+        position:
+          serializedVersion: 2
+          x: 328
+          y: 304
+          width: 114.5
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        next: 0
+    - rid: 1428245109272215554
+      type: {class: BranchNode, ns: , asm: Framework.Dialogue}
+      data:
+        nodeCustomName: 
+        GUID: 94cb5272-8706-4787-b5dc-e105a9e12385
+        computeOrder: 2
+        outputOrder: 0300000004000000
+        position:
+          serializedVersion: 2
+          x: 908
+          y: 217.5
+          width: 144
+          height: 119
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        Input: 0
+        option1: 0
+        option2: 0
+        options:
+        - "\u6211\u89C9\u5F97\u8FD8OK\u8FA3"
+        - "\u6211\u4E5F\u89C9\u5F97\u4E0D\u884C"
+    - rid: 1428245109272215557
+      type: {class: DialogueNode, ns: , asm: Framework.Dialogue}
+      data:
+        nodeCustomName: 
+        GUID: 98fe2438-1213-409a-a8c5-2586460c38fb
+        computeOrder: 1
+        outputOrder: 02000000
+        position:
+          serializedVersion: 2
+          x: 624.6297
+          y: 266.5
+          width: 144.5
+          height: 161.5
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        Input: 0
+        next: 0
+        speaker: "\u4F55\u58EE"
+        content: "\u6211\u89C9\u5F97\u4E0D\u884C"
+    - rid: 1428245109272215559
+      type: {class: DialogueNode, ns: , asm: Framework.Dialogue}
+      data:
+        nodeCustomName: 
+        GUID: 716c61ba-56b9-4840-ad04-a9abbbaf76c0
+        computeOrder: 3
+        outputOrder: 07000000
+        position:
+          serializedVersion: 2
+          x: 1273
+          y: 39.460022
+          width: 144.5
+          height: 181.5
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        Input: 0
+        next: 0
+        speaker: "\u4F55\u58EE"
+        content: "\u90A3\u5F00\u59CB\u4F60\u7684Freestyle"
+    - rid: 1428245109272215561
+      type: {class: DialogueNode, ns: , asm: Framework.Dialogue}
+      data:
+        nodeCustomName: 
+        GUID: 38f62d5e-25a0-41c5-9e76-e0bdf2381aaa
+        computeOrder: 4
+        outputOrder: 05000000
+        position:
+          serializedVersion: 2
+          x: 1419
+          y: 372
+          width: 136
+          height: 211
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        Input: 0
+        next: 0
+        speaker: "\u4F55\u58EE"
+        content: "\u4F60\u89C9\u5F97\u4E5F\u4E0D\u884C\u90A3\u5BF9\u4E0D\u8D77"
+    - rid: 1428245109272215563
+      type: {class: EndNode, ns: , asm: Framework.Dialogue}
+      data:
+        nodeCustomName: 
+        GUID: 13cf06d1-4a8c-48b6-9f81-344778760310
+        computeOrder: 5
+        outputOrder: 
+        position:
+          serializedVersion: 2
+          x: 1980.0437
+          y: 439.99997
+          width: 90.5
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        Input: 0
+    - rid: 1428245109272215564
+      type: {class: EndNode, ns: , asm: Framework.Dialogue}
+      data:
+        nodeCustomName: 
+        GUID: 0f0c3af1-d532-48bc-9817-285a9518641d
+        computeOrder: 6
+        outputOrder: 
+        position:
+          serializedVersion: 2
+          x: 2220.5
+          y: 74.5
+          width: 90.5
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        Input: 0
+    - rid: 1428245109272215565
+      type: {class: EndNode, ns: , asm: Framework.Dialogue}
+      data:
+        nodeCustomName: 
+        GUID: a289404f-30d1-4564-a2ab-acb788815b28
+        computeOrder: 8
+        outputOrder: 
+        position:
+          serializedVersion: 2
+          x: 2220.5
+          y: 74.5
+          width: 90.5
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        Input: 0
+    - rid: 1428245170716409856
+      type: {class: DialogueNode, ns: , asm: Framework.Dialogue}
+      data:
+        nodeCustomName: 
+        GUID: 1bb374af-e16b-4a84-a884-37598e6a24f6
+        computeOrder: 7
+        outputOrder: 08000000
+        position:
+          serializedVersion: 2
+          x: 1727
+          y: 112
+          width: 136
+          height: 211
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        Input: 0
+        next: 0
+        speaker: Kris
+        content: "\u4F60\u770B\u8FD9\u4E2A\u7897\u4ED6\u53C8\u5927\u53C8\u5706"

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e8ed8d658db4c9a871176769c9251c0, type: 3}
+  m_Name: ObjectAnimationClip
+  m_EditorClassIdentifier: 
+  clipName: 
+  animationConfigs:
+  - {fileID: 11400000, guid: a42f42f8bae398e449474517f1738974, type: 2}
+  - {fileID: 11400000, guid: 33076efad6e7eb14c8cc58c01908e573, type: 2}
+  - {fileID: 11400000, guid: 9ee2497d94214184d9577f7bbb9dcd61, type: 2}

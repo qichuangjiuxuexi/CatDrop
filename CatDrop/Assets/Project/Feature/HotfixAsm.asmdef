@@ -1,0 +1,30 @@
+{
+    "name": "HotfixAsm",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8b6fcb726b83244c8b255d3acfeec1e7",
+        "GUID:08c842cc400d24e4e8e61405b416102f",
+        "GUID:da2174c048ed84676bd857dec700a47c",
+        "GUID:1ebb98f38b1834890bfb15fcdcf2b530",
+        "GUID:6c9ae23c0ab374b5782935fbc5ba607b",
+        "GUID:5896dd662b2c64604a31831a1e707fa1",
+        "GUID:676985be63e7e46b5987c1ef762c5d2d",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:69448af7b92c7f342b298e06a37122aa",
+        "GUID:8e2757f6ce2ba4e40bcdc6313c7a9cd5",
+        "GUID:1d974b44d2774724a36d854e933ab540",
+        "GUID:0625dd5ea9684a0f80331ac93bfa73b7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
