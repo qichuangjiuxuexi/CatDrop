@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: m_EffectPrefabs_dl
+  m_EditorClassIdentifier: 
+  m_GroupName: m_EffectPrefabs_dl
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 634331ba961ea499ea4b51921693a913
+  m_SerializeEntries:
+  - m_GUID: 034affe30af76c048b6e1d57b565366a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_ModelAppearFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 084ebc49d1c2a8b44b77927f86b74341
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/prop/Booster_Fairy_Stick_Fly_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08ef52e0ed2b1414a9c1e6fd0ced1d36
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Fireworks_Before_Fx_Winning.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 169c14b150ee3e44ebf148d614101114
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_Lightning_HitFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 196320cc07d6e364ea4984f2fcf8e1a4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_StrawHatClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1de82f5132367ca4e95e46cedf10be48
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_Bomb_BurstFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21e7aff15663fb64280d2c6442ae6e14
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_CommonReward_Fly_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2737591ce927e0544aa61cad11a8251e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Fireworks_Fx_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2800c5b5f368e9e47823438d3bba1a89
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/BroomCleaningFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e4e53ae20dc93e42a28be721148a70b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/ItemModel_IdleFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c6226f836948b54bb423c3829e63582
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_CoinClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40b07fdd14038c347b50903bec080667
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/CommonClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43b15d759361f684abcd6ae1a5059ecf
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_CommonReward_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47665e75dfd2ca54d9090788ca381495
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Christmas/Christmas_Model_IdleFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47d64fb6e28c07c42af765f0ca307356
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_CombineFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ab957a650b82e943bb4641d4bcf59ac
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Christmas/Christmas_AppearFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 508cae0350673244882e82bc9d5cfd84
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Icon_Trigger_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59f97abbc797fd742be9b727a0db3460
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Collect_Coin_FlyFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 702957fd0ddbbb1459771285bccf1273
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_Magnet_SuckFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83540aeff8d95914588ee7779be4ca25
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Fireworks_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95e6b9b17b8b74a40bb86c98cc3a2074
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_SakuraClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96dff217bb50e4c4094ef8c64b09109d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Fireworks_Hit_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f17c8ec6080a604f99c27fbeafe8852
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Halloween/Halloween_Model_IdleFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1dff0ac7e3ccd94c8fa552903646db5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Christmas/Christmas_BelIdleFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a90e30416308870449dd8660d8837915
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/AlarmClockFlyFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be2046dbec6e4104880fd4b7ffb7d5c4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Christmas/Christmas_CombineFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be73be2f6f1c7e640a0b3be94b610d75
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/prop/Booster_Fairy_Stick_Hint_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5ca3aae93b1aff45b5e1f0d9bf66d58
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_Fairy_Stick_AuraFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c68015ad521d1874189889b6d94560c9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_Magnet_AimsFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca2a8b9f9f62cb247a98c88bbf8dd4fc
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Collect_Clover_FlyFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cae299bbe11331844ab410accdf79c1e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_WindFx_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccf82a1814f16104faca20e5faf6316a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/ItemModel_Fly_Trail_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce36614ab0546ed4a9256599c73640df
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_Lightning_ClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce742ed843c590d4c92c63ddb1f186f5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/prop/Booster_Fairy_Stick_Disappear_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d13c177fddc103342bd4c0708559d337
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_WizardHatClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5adec10360b1714abb56e8e0caa32e5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_Magnet_LineFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d609051b09b34734fae28a92b2a79e8d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_FireworksClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da3cb0fa98e26ef4b89fe5fdf87ca24f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_WindmillClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da610b7adac946349a9c82d2bddc4c0a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Fireworks_Before_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcd2f8e4ef0d15a4e958261c5c3282a9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_Bat_Fx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e12e5e1a443f9134f93fd2beb61dfaad
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_ClockClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e675f9966076f524f8703cbfafdcebe0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/AlarmClockFlyFx_Winning.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9379cdf08596cf4da5e14f148ae3b09
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_Lightning_PathFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efe56f3cb21d32c45ae5e307ce02ef68
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/AarmClockHitFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f365e5c750bd29546869e72a6f9cbece
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_CloverClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faa065d0d6f0c4b4fbb2b3e8c33391c4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectPrefabs_dl/Match3d_Effect_IcecreamClickFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9f3a271b73c2e47b3840821cfabcf8e5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dbfe134a398f5430f867dcfffff12671, type: 2}
+    - {fileID: 11400000, guid: f7f27fb5e04e64cf1b99afc7550bf914, type: 2}

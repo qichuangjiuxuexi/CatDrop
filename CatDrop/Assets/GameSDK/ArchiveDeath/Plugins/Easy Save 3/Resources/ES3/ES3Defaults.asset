@@ -1,5 +1,5 @@
 %YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
+%TAG !u! tag:yousandi.cn,2023:
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29,38 +29,32 @@ MonoBehaviour:
     referenceMode: 2
     serializationDepthLimit: 64
     assemblyNames:
-    - HybridCLR.Editor
+    - ICSharpCode.SharpZipLib
     - Excel
-    - Framework.UI
     - UniTask
-    - HotfixAsm
-    - Framework.Common
-    - PPv2URPConverters
-    - UniTask.Linq
+    - HybridCLR.Editor
     - EasySave3
+    - UniTask.Linq
+    - Framework.UI
+    - Framework.Common
     - NodeGraphProcessor.Runtime
     - Framework.Loading
+    - Framework.Tools
     - com.alelievr.NodeGraphProcessor.Editor
+    - UniTask.Editor
+    - HotfixAsm
     - Assembly-CSharp
-    - Coffee.UIParticle
-    - ICSharpCode.SharpZipLib
-    - Assembly-CSharp-firstpass
-    - FancyScrollView
-    - UniTask.Addressables
-    - Framework.Archive
-    - Framework.Resource
-    - Framework.Network
-    - Framework.Dialogue
-    - Coffee.UIParticle.Editor
-    - Framework.HotUpdate
     - UniTask.TextMeshPro
-    - UniTask.DOTween
-    - Framework.Config
+    - Framework.Resource
     - HybridCLR.Runtime
     - Framework.Event
-    - UniTask.Editor
-    - Framework.Tools
-    - FancyScrollView.Editor
+    - Framework.Archive
+    - UniTask.DOTween
+    - Framework.HotUpdate
+    - Framework.Network
+    - Framework.Dialogue
+    - Framework.Config
+    - UniTask.Addressables
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1

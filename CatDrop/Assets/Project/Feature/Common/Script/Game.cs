@@ -34,9 +34,8 @@ public class Game: GameBase
     
     public static TimingManager Time  { get; private set; }
 
-    public static LevelConfigManager LevelConfigManager { get; private set; }
+    // public static LevelConfigManager LevelConfigManager { get; private set; }
 
-    public static MatchManager MatchManager { get; private set; }
     
     public static DialogueManager Dialogue  { get; private set; }
     
@@ -91,8 +90,6 @@ public class Game: GameBase
         Event = AddModule<EventManager>();
         Dialog = AddModule<DialogManager>();
         UIScene = AddModule<UISceneManager>();
-        LevelConfigManager = AddModule<LevelConfigManager>();
-        MatchManager = AddModule<MatchManager>();
         Time = AddModule<TimingManager>();
         Dialogue = AddModule<DialogueManager>();
         Buff = AddModule<BuffManager>();

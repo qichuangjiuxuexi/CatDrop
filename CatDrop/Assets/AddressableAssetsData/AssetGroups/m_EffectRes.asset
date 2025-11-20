@@ -1,0 +1,2405 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: m_EffectRes
+  m_EditorClassIdentifier: 
+  m_GroupName: m_EffectRes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 705baf6eeeacc4cc99b5995f13117cb2
+  m_SerializeEntries:
+  - m_GUID: 00790025d9f1ba64d9adc08c4f69516c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Water_006.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00cc2d7d1d4da3343bbde382516c7278
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Alp_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 017c7968d9f0b1b4ba22af542748849a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02b4fec7096a65b4688559fca1f94e7c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_009_Clamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03e705fbf44c80b48b4e14349d49c512
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_004_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04ec6cc148f5cd64d8e7747e61cb4a4c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Beam_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0595d31860d307943861205040ca28b3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Water_Add_002.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 065db865047abe14081fc3ec0c89ad22
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Neon_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 075025740edccb249ae88cd7bca1d505
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Sequins_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 083284f235bfa224d9548396b4f1d82a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Snowflake_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 083defcc70112ba49b25d3bf94f3a91a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Water_003.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08f2d17d7ba66bd46a14921477e64592
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Wind_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0926548cd02d60d499e3df64971ef336
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Frame_003.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 094985b898c357d41a4d425f72aa34c0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Beam_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09c2ac2053d27a143a04f6fc288fd377
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Neon_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09e5e3fd747d54c48b44f39c6284d314
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Other_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09eed531041b34941a46e4f99520b95d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Lighting_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a255a5e349fd734b9877c3a5ce94403
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Lighting_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0aca313cfd3171844bb62bf7bcfb3703
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_zTrail_Alp_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c04c9246c6fa6a47a09bae6dda7a0fc
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Flare_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c27eb9950c46aa4dbdd27f57752dff2
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_09.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c5c6ded5a1277e46959644224168f0d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_zTrail_Add_007.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c62b896d99ab894795d536e8cc726f5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c93a07a982964d4b8418cc644bfabd0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Radial_019_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d5694f1a79f29b469050a85d3f3d798
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_026.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d63ac2e71ef9534d8e8e9f92800ec8a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/ChestRewardDialog/ChestRewardDialog_2_normal.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d67ae8f834d01541a1598f12704b21d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Stripe_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e26265dd40944376996124abc83a088
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ee6353388f01874382646f95144684c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Animal_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f242b0dd7bea2e40a00aaee9455df1b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Noise_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f71771be38ffdb4b8e7202f26ad08d7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_zTrail_Add_009.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fa011fc617ad474cb220f5745929890
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Ring_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 104a9e299fe3c9741af76e4afdcf5c25
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_023.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1061735ce4a2a21408839101a2e87164
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Shine_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10b48be542eec9a48962e10bbdb11824
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_004.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13227f2a70120c34389f571f99ae6a80
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_025.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 138b5e0fb372ea642baa3de55773ddf1
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13cc8abd45759c6449fef744d3ddd0f4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 159c3b800b44601499844ba124ac30e3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Tailing_008_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15d516fc79831aa4c9b8c62a03964f47
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Shine_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1706bfc66a229ed42ab3c7bce35da8bd
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Tailing_004_Clamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 174d861ed62bc514a9036852418165f5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Tailing_002_Clamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 178edd9793261e14b8228ed9d8b7fb3f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_028.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17df8019db9840141a055ea7118a5e83
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17fa9db42eed01747987e1d8c894545e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Shine_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1827fba1ccbe9e04ebbf3da8cb44e48a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Glow_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18a05edc0bd47634cb22c8de9cf634cb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18d06e99a8e9bef4cb8c39bc1b7bfb7f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match_Fx_Plane_Wheel_003.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1912be242e6681f4f9e96ad7dc51429e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match_3d_Life_and_Coin_Anim/Match_3d_Life_and_Coin.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19ffc16d04b295b4e9e1a1d91885dfb1
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flower_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1aaf6a5644e4d864f8472712452c5b25
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Nois_005_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ab87cc3662922d4a96afa7eaf5fbe87
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Mask_005_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ad94c5d491dc444ea47aedc5ee99e28
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Ring_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b2390a65956cb4438eaab2b50cd0c83
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Stripe_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b321ddbc2ee40a4da30be8d0e7c21e6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Beam_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c312e48d0a712640a28b09f5b6a63d3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cb17994a133af9488adff3998858bac
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Other_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cb9c2890486c774896b1a4b1f38c6fd
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_022_Clamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cee38eb7fa4fff4d9253f008404bcb1
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Stripe_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d56456781f9a1f46815218429787c80
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Circle_004.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d888fbe7ceae444898a8d4eece7f83e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Smoke_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1df7a43a80402d743ad3ca7761e45a8a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Alp_008.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e9e9273597617a449c93a6d3531f7ab
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match_3d_Life_and_Coin_Anim/Match_3d_Life_and_Coin_Out.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f07da3d340a15e43a5ed596d27c6f62
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_021.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f7aeeb41f7225a47a54187dcb7a0d01
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Noise_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 201b471006e45f5499c31069bb01570e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/FlyItem/FlyCloverOneItem/FlyCloverOneItem_Start.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20a080945c3db4b4dba389d21a00e049
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match_Fx_Plane_Wheel_002.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21270493f27cc7d4abb7e1a238308c7d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Mask_010_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2192354714ad68d41aff2e82638bc08d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Noise_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2215ee41eed8c4d56adddb6d547b55cf
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/MatchGame3D/MatchGameTopItem/MatchGameTopItem_FinishGuide0.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22f6f5d1a1cd5f64f808953f95d772ae
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Wave_Add_006.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2391514534ad78e4a86a39c58952a196
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_035_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 239c2a7510bb2b642ac5e4104178c295
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23d6f4ca7dedf534ea2c7ed40670e582
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Lighting_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23f2ed0606e66c448b4138a624d235ad
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Noise_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24dba265f6d313d4e9184d05b3287871
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24f0cb304bcf8c64aba8998f8372e8ac
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Stripe_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2517e059695eafa4f862d47b97e6b978
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 254095a3964d640428a52e8a1b9dba20
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Flare_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 259f5394b16703347ba336a649373b98
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/MatchGame3D/MatchGameTopItem/MatchGameTopItem.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2660351f07cb5fd43a4e5c488da55f9b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2686e0ecc63308e4f9e636d0fce3710a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Lighting_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 280b0c4989fdeeb48a7400bc29d541dc
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Line_003.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28d663bcdf9763445acf78da168b0ce5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Other_008_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29a17967a8edeb74ba766e107b5df8ca
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Ice_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a33431a6b95a6744af8d322c02966b7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Tailing_007_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b00f079c823ea54899cfc7105bfd092
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Wave_Add_007.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b096f63d303c6d42a4b6d8848b0d687
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_003.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b669ccbed56be3449aa6ce03e315478
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Fx_Glow_029.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c60a60bc317ed447adfcaad74395dbc
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/DailyBonus/DailyBonusMainUI_Cover_D3_Turn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c727576035b2ee4f8028b5463115e16
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_019.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cc50e6326ca61849a07ae05cbedd2de
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Water_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d6bfdd3495c8fc4a8b1eff894ba3fc5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Nose_004_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d76588f3c1bb1a44bbff2e4a399befe
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e00ff097ee6e1344856c36a143501fb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/ShopUI/ShopItem/ShopItem_Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2eaa57ad4aa777e46865bd5fb96ca06d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Other_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ee7c99bef8909f45a633d581b96c5cf
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/ShopUI/ShopUI/ShopUI_Loop.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f89c778406e4454fb001ce2602c7228
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Beam_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fde50dfcb379584880afa704e1200d6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Smoke_005_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3024ed1f9e4e84449aadc24ffdaa1d30
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 306ab304be9388f42bf8fe56b4529e2e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Rays_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3087ce39c0700634eb807e80d2594bc5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Tailing_005_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30a3b9b394880ad4f94aa42dbb4e6b35
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Tailing_005_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31120c80fe7f1b04da7a0aec38687794
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Lighting_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 313b22f98ad50a74f9ef6ddf0b3a2cd9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_013.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3167b5c843bf9864f95fff0d6ec8f797
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Water_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31c35135cc63144429c5942fc36a9f29
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Rainbow_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32f7f2aa486c2f147b1f192390c0901e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Star_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33076efad6e7eb14c8cc58c01908e573
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/StarChest_OA/CompositionRotateConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33366b1ac582da040bce8f5c26879040
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33aecb0a73a6e2644bba267101626fb0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match_3d_Life_and_Coin_Anim/Match_3d_Life_and_Coin_Normal.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34313f9b30c1a6e458392b275d4b0226
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Noise_004_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34b461b40b3d19f4689483ad5e00f704
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_008_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3566351f7f634c24390544812fee72b8
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Shine_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3571e0f0f26358b41b9d3b4436ca7705
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35749b118bb6e4e4190a02af852312a9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_shouij_bg1_Glow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35d89785379b33745a8ee3e333837cc9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36b647ee037cf344dbf16cfc8e761afb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Snowflake_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36d5c05bde48d6d40896d3579da5c314
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match_Fx_Line_002.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 380dd817c32d4544c8adc090452ba4f3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Sd_UV_ab_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38a1a59d25d84634e9282e0ff301a33c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Beam_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38fb9184e06acf6498a65b5e474e6402
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/ShopUI/ShopUI/ShopUI_Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a711a2b6863fce479193a2d48fab7b7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_017.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a74bb5263dbbae44b47c37fb920c2fb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stone_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b5bbc10892f60348a305ba3cfaf25a7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Line_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cc162ddef36f7340b4b82b0416617be
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match_3d_Life_and_Coin_Anim/Match_3d_Life_and_Coin_Hit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cc9130724570424789d57d15d102863
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Rays_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d3918c1abca4684b9d10364645aac89
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_005.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d974720ef9d3064689c9947594dbbba
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Smoke_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f0503e4da4a68142bc011ed488855da
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Other_002_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f122711baff6f843a787d7f7f0d0a74
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_shouij_bg1_Glow_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 407df568c72684446bb075a0d9b0843f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/ChestRewardDialog/ChestRewardDialog_Disappear.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 415dee274f7560d48968ec7a3f60bfc9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Other_015_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 418c23cb7282ae548bd4184dfc58948d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Star_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41b01bc4b18c7bd4a808e6ca5d7f492f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41b975693b88c29459710a1f9e94a072
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42f269cd55b22ca4996920ba628773f0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Line_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42f54c3bc532c7849bfc351aec9fa5f9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Wave_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4324b97341e7954469430dd90d4ce770
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_005_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 433ef43f77c8bfb4aa5eba2976ce09df
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_022.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44140e2aaf85566449669795dedc84eb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Fireworks.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 478f596f65701024cad10761bfa405ef
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_020.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47eb41d44c608ca49a91584f1312add5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/FlyItem/FlyCloverOneItem/FlyCloverOneItem_Normal.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 484c0119508b0bb469ad0b3e5b775843
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_008_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48b71dc5e2c07f443a625ba52dd63ccb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Fx_glow_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4955780ec458f1d4588cde6678decede
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Flare_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 499839e1d4b46e1459b4be483ff81d14
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Sequins_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49d5dd232108195458ee705657f5496c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_004_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49e1769657e268c4faed31aa3e124993
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Beam_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a9c055a1b4bbc145b006ca2604961f8
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Neon_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b2caf40c74f4614d8c213c1cbe66ec7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_SphereHarf_001.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b62c23ea336cb742b2416d4321ab129
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Smoke_003_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f65f56c03cb84045b23631b59333e36
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Animal_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5073df016e169e440a0301b05ce97e31
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_015.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50abf3d8c6bc98742866286f2b10a77a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/mat_light_add_02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50e8f67be73ecb1449d35aa0071ef03b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_005_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 510f526fe2ae8ec4296cc56a13cf4d10
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Flower_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 519190604b3743948bbbeb4f2fa53dc7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_009_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51bed769dbeff45408b40be4c65a330b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Tailing_003_Clamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51ddf10a113cb3141822aecc569cc530
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Bottle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 523663f05fd4e2a4b9ae13299f8062c8
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Mask_016_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53fd3e292ef27894eaf08bfb4164b990
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_008.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 540fe43d3b78429448a84e4901398423
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Sequins_004_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54b76e60eb553d746b20bc8b9c8219f5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match3d_Coin_Fly_Anim/Match3d_Coin_Fly_Anim_Loop.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54e152c88b6d937478d262fdcaed8702
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 551d1cb7a3c86c24a820a0fda363eca3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5685085be04dbd143b2a91640deecf29
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_020.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5714152b5357d87489821c503d2a2760
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_003_Clamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 578373b7441b5324b8f9f791732669ac
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Flare_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5786a41890105ba448b3aa69c94c6363
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Neon_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57917fda4e6d0334085be3badafec789
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Beam_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5826bd4d512032641a80a2deec11f8bc
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Sequins_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 586da6cdb2f3c5b488d76a1497512242
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_zTrail_Add_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5964ed8430bd96c43befedd51b07fd62
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match_Fx_Line_003.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a0c7decb7c53584aa0349b4957b0bd0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_zTrail_Add_006.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b669893ad8fd9c4196ebef482cfb1f7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Nose_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5babbfea27f1ff140bae56c05245a8f6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match3d_Coin_Fly_Anim/Match3d_Coin_Fly_Anim_Bonus.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cc0a3f5359ee7e4e87cb3556de9c2ef
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e872ec069d5b224ba9d99401ff3ddc4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_009_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5efabfebbacc41749923dc02e80ce90b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Nose_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fac8e496cbea7a499d214ba69b040b0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/HomeUI/HomeModel_Scale/HomeModel_Scale_End.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fcb6bdf906ff534b88a2c261880241d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Snowflake_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 613d0fa56d8f2fd499ca2cabb8dd93d1
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Sequins_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61cbaaf2ecd4ca542b526e53bc168c44
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Fx_Radia_013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 621901cdb3b7162498c1171a8adca9eb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/FlyItem/FlyCloverOneItem/FlyCloverOneItem_Double.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63b85c572a6d07b46843b6087d154f1d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Line_005_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63c908066d2377b47a6ecff1173b5bc6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Neon_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64850806a2cdb35428a44e4e17d5c1b2
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Other_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64cc1138fd997774db66ea9d8fd6daf9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Sequins_003_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6556c96c40748614ca7bf531e6ffcc70
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_UI_Edge_Add_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65a240ae7e84f9644b329e85e3e64a8e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Other_014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65a47ef05f9785249a25f5191f87c576
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/mat_star_add_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66da556d6e8b5ba4bbb96d73cb258639
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66e681e08abc47f45894e07ce465dac2
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Shine_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6881ca0013078e945b79dbdb155b26bc
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match_Fx_Line_001.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68be90ba02e3e80449c8f4cd1b0fa70d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_zTrail_Add_004.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69a6a1f82a2ba4c4582a9b862032b483
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Trajectory_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69c3951a314478245954db4241cfd745
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_010.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69dae5995189a4a4a8ccc03863f8dbd3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Line_001.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a4c413d108156b44b1d41c58186a4ee
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bc6ea9a550a44b4ab800a7edd3c9b84
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Frame_002.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c7b967a861fc544093fa732f81f6428
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Alp_007.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cbed7cebf5d0574f9e0ea3c17a83eb4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/MatchGame3D/MatchGameTopItem/MatchGameTopItem_Finish.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d251d635a54b5e4e90084d253ac8474
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Fire_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d252a5911935894ea2259bc855ea383
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Ramp_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d9ad021a693bab4d9217bb20bab422f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/DailyBonus/DailyBonusMainUI_Cover_D7_Turn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e86ff7e530dc034d9464fde503b9717
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_014.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f36141238d53714e8173eb2277e46dd
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Glow_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f49cb871eb562f42bd95d677265e0b6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Lighting_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7038f1353c2f7344ea197118c2176f63
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Rays_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 713301795f3320743a6cd6348294abed
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_012_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 718cbd061637d9641bc30e26bef01689
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_006_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7209e75124e7ca146b3cd6f79379473f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Glow_Bat_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 723d749c2a9474934aee1abbc92cab51
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72c29d6ecbb937845a5c99018ec02fb6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7329734559a1d544997396688a75450a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 748d07a023216c4439bec2dd47f512a3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74f26d0aa82356346843762fcce93145
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flare_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7633a43cf1e23c64cac9cb38f66c64b2
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Noise_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 769b898f2984d6641afea07e6223fa95
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76ccc10e021e2dd42819a9ae51d8fef6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Sequins_005_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77ef7a14b88cdfd449e73a1ab1f5aa3c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Splash_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 782e5f01672892c4b97a3b88cb58aa5f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flag_Alp_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 790d9b487a757604085dc1043dc3c1cf
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Ice_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b4057a886f299144ab28c5c10729ba3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match3d_Coin_Fly_Anim/Match3d_Coin_Fly_Anim_Bonus_Loop.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b6b123f10e7c4171b94a9d6cbd61c41
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Glow_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c014c5db3fe17946a662eae48dfa318
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Smoke_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cd32d4c8ad21be4e9757f26d7f978ee
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Fx_Radia_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d8a6441028de9b4689bc768f0c93725
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_08.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7da87fe4d46e31e43977596f203ba1d0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Sequins_006_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e1a02ac3ded92749ab720c84f919268
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Snowflake_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e5e4b712e1762d4794428c673b7789f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/tex_zuoyoubowen_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e97f08838671ca429a62e29071b3d10
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Radial_007_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f75c3208b48a3449842d816c48de0ec
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f8373a5c358c334ca45edd54ec4f8f8
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Other_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8049a503bfb753d479bb839a4e43ce6c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Tailing_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80e0c03231f505f4799920f65954db91
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Other_leaf_016_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80f63e9dd9de9524dac5f839ccf68ee7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_006_Clamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81f9e0a0922839c4185b1a2a8e1913be
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Neon_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82a7dc15d0b644e4cb5a263177aa6959
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Lighting_002.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82c86dda981bb6e46af649dc1e7fa8b1
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Nose_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82ed48cd1424b5343903c04237a52786
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match3d_CommonReward_Fly_Anim/Match3d_Effect_CommonReward_Fly_Fx.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84b4b5298ecf20749967229a84aa0255
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85be95e122468164882f54619e628b55
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Line_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85d5e22f6e3ddd849ab6cc19a2010236
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match3d_Coin_Fly_Anim/Match3d_Coin_Fly_Anim_Bonus_Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86d149537fdeb4345aed9643dab50e65
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flare_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8828af8ac49143d40990bf42533b2963
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Wave_Add_005.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 885955a9f4e75fe4aa76367348478270
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match_Fx_Line_005.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88fc85ab264108f49bee5d503ecfe6ed
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/StarChest_OA/ObjectAnimationClip.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 899f754d8d8a38a4ba8f5216f8b3296d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/ShopUI/ShopItem/ShopItem.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b78a9f225d220046a0d4c373ddc4947
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_023.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bb53c654f8c0254b983692be71258d2
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bce193273228874bb3468a28b4c902f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_010_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bd75e200d60089478db71d8071bd8cf
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Dot_Add_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c04c0dded8798344aae7c6dcefeb085
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_012.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cc9ed92a8af3424b8ebab54b7a7d5dd
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flare_004_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d61ac84bb008c04cad6c03ebd3efbb9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d7c53aa93f8e0042b76e77aef1c4cbc
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match3d_Coin_Fly_Anim/Match3d_Coin_Fly_Anim.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8efbf7c41456a1e439dcd9e2c411a050
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Shine_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fa40a253fcdded4bade54bd3d444bab
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Other_014_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fb2338487c5d114b8445c28629c6b5a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9056515b537db164f94106500c0fc31f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Lighting_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 914b909fb5626fb41834b442d3659eda
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Coin_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9174d75c762b6294ea5ddd28cb897935
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/bat_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 918dcdaebbf7e3e478f040963e482e05
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Line_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92243b0df25f30f469bfecf710d0fe17
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Neon_002_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92a74baa086b1eb46b6648e9d38d04cb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match_3d_Life_and_Coin_Anim/Match_3d_Life_and_Coin_In.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92c424c37c503d34290234132f4f3c44
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match3d_Coin_Fly_Anim/Match3d_Coin_Fly_Anim_Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93d0a68efbbd15b4693a19bb7bc8215c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Stripe_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94f32ce08563d55418de47bc1efdba96
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/DailyBonus/DailyBonusMainUI_Cover_D1_Turn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9548241c1e887f4409a5dbb8f2d73910
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Ring_001.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 966e44bb4e425ee49a60ecc1f6c43886
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/StarChestDialog/StarChestDialog.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 968b390144bd4ac4e85ae1c2eb4772ae
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_016.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96904c9b987fc8e4990bfdd5af6f3303
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/tex_dot_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 976e120635b88c743bf2960e6e75e0ca
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Smoke_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 979bd18e57c3552408fbcd0f1d773c4d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_zTrail_Add_008.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9864508426a357c4e82d1043b59aa4a7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_019.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9916980863a1a9a45a1552d9870c035e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_007_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 998776cc28720614981f22fa0e9da1d6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Stripe_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 998ce0657a020024aa0f8e9ca2f2a354
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Alp_004.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99beb41de7cd37a4a9b52dfaec1b9d0c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Water_002.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99c0dff7426d74d48a8d48416ec7fdb4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Circle_003.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99c1800133b7bf94ca2167020e0ce585
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_010_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99e77fa95ba79f54494d44177fb8317f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_008_Bat_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99f54dad8bdfd174d973b4e8a0bf8eaa
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Other_007_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ab995338bb1d744e977b2f0a0b15e75
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Other_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ae9413534b41ab46b8bdba40424c613
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/fire_work.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b209a6f8c67fe142bf622692795aaa3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Lighting_005_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b843fe0122994c44be50d2be0ea638e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Tailing_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b93fd8b25742b948a9aaab500981a88
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match_Fx_Plane_001.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ba6ff67762717845864708164a98261
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Line_006_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bd9b97594c23194293e452f64ca85f4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Mask_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c1a74d163807ea4ca9bcce56663aba3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Stone_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c953a08d06d790428a1e7120069ffc5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Rays_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d1a404df71210e48bb7d467aefeb883
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Stripe_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d32ee5d43c87ed4a8c1ce2348d397cd
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_zTrail_Add_003.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dfd096892b5ef349928f7c4afea8aa3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Smoke_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9eb457d9787f1324dbaebbae214b461b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Neon_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ed602f97f6f1d641a21adddaa426399
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Other_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ee2497d94214184d9577f7bbb9dcd61
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/StarChest_OA/CanvasGroupAlphaConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f2c681e2dfb7e94ea11ca716350b428
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f821c3159aa44b20b0f5bb135e6cab1
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Shine_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f89e12f4d0a50a4f9b48f0b8d9c345a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Circle_001.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0f3ef849dcf7024592a73b06d198587
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Frame_001.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2d9bc7ddfa4c4c4eb38d1d5b5f094d0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_004_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3239a1fbeb334e40a0b7093919f0c41
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Lighting_002_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a35d89ff7caabbb44b96a8620e9afa14
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Glow_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a36297353155c3d419360ea88087b4dc
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/HomeUI/HomeModel_Scale/HomeModel_Scale_Start.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a38e03132f87f9b4bb6f870dbf0d9ead
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Lighting_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3c0c773237ba904ca3b5ed3d2a5b650
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Ice_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a42f42f8bae398e449474517f1738974
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/StarChest_OA/WorldPositionMoveConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a489cc7afb657484a88d08816090ea75
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_009.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4f16f32f0f25654b9756f2b8b7e2480
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_024.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a52a33391c6bb4b28968378c7554e88c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/MatchGame3D/MatchGameTopItem/MatchGameTopItem_FinishGuide1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5455164e300bc341b3150ef2b9cb5f5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a54f1690e6d418944ba77e8576e5ed1f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Other_leaf_016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6495f87135cf374db48c20f208d8d08
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Line_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a798b69bcc68c3f41ad746b59bec075b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_019_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7de509bf2b056c40af539be2f5c3a55
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Glow_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8300e1edbfe0ab48af9f32610f0ac7b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flare_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8a8cfaee6cf62249b0897b9a2b1d4a0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9608fe36d343df4b9a55b35d8e1d42c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Water_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a982171c62ee2cc4da851ff39bf77114
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Rays_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa065007af8c9724daee74b3d4c710f4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Wave_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa0a30e22bfb2e943b5f4813f9e1ff41
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Noise_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa8d4f8fd388a0a47824b034e1f55943
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Ice_light_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aace820ffce6bbd48a6464eb000637f4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_006_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac35e18ace3aba44ebd2752c47414470
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Rays_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac7ab0f62861ff54896aec1d91e6aae7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_021.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aca33081003782b4f81040c37491d27a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/ChestRewardDialog/ChestRewardDialog_2.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ade2867765077db45a84ab3c186d6471
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flare_002_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae1136348ab3c774a9166703d92e37db
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/DailyBonus/DailyBonusMainUI_Cover_D5_Turn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae8c14aae54e26e4f9c14bb7a9e57fde
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Alp_009.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aebea67d84fceb546aa0e7478a3e642d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/StarChestDialog/StarChestDialog_Loop.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af5cbf452c00bf84692a0e4dd166d3c5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Line_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af79cb87741f9fa49aeefd2c2c6e2ebf
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Fire_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af94ddd32c5746b48a76a4c17b4f1107
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/ChestRewardDialog/ChestRewardDialog_appear.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afb49082ddd8616409c586f40a2087bc
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_007_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b135ff27f8e0a5249994e5e36bf096c6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Shiny_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1a9427597aee914dba9e03e5c792e9e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b275703e101472c4c800e1720d372c29
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_021_L.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b28be706e36469044bae06ddbc32dc3d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Glow_Bat_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b30e8ebfce0971046a231a12c57464c3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Other_004_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3ed3634cb68b7a4aa8e1dd02a90e936
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Rays_004_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b40688e309b35764daed080b8954971c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/tex_dot_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b49234759a0919b499cfba9d53bc6a64
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Smoke_006_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b54da5405e38ae14e8e45ba27f137707
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Smoke_004_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b55cdc07793d4954caa1f053a5119df9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_027.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5e261dba430ab34081bad97dee2cb52
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/mod_zhuanpan_01.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5e91c6c89113544095928e8f527357e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Rays_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b750ae486a57b924dbfca024f1fafb41
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/StarChestDialog/StarChestDialog_Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bae7d162bddc81945b07cb6d0a3548bd
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Tailing_001_Clamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd98a27045c399d42b8b67625c642b6b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Xi_001.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd9bf76b52686fb4fac0d89c94b27582
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Tailing_004_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdad7ab65be352a4a85aab2f3ce34e50
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Wave_Add_004.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bde4bd79e8752a843986c5cfbf99233a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be12077d2cfade948a58e4c366832c19
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Beam_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be33729f428d417419cbe4ea905507f7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/FlyItem/FlyCloverOneItem/FlyCloverOneItem.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bebf53a3076029849aa11a6c3873c760
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flare_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf9549e6427d7f5488553402c4adb88b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfcfd267ce00ae2489ead6d6894ff84b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match_Fx_Line_004.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfe28bbbdca9c7b47864102d8f305162
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_007_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c049954c5f5730b4199841d4ea632839
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Sequins_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0669f70f42876b4e90e32e7456fe918
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/StarChest_Mask/StarChest_Mask.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0d09e0ff7c38de41b38534ebbb8b83e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Sequins_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c235cba9eaad87c4b839aaabe4f33ba8
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Tailing_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2fd09386073c4240a75e075bf11e64a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Wind_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3d9032695b1c4e8080f83dd30d33095
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match_Fx_Line_004_new.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c44e49d750482c24dae50ed875ff398c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_009_Bat_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4772bf87107f9a4f83114fa87fde2b9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_022.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4cd9b0e4510d63469144a415c977596
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Line_006_Clamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4fb193e62035034a88adcfda7d7491b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Tailing_006_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c50d64900b67b6343a657e9d4c34255c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Rays_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5d8c3d39adc8894582a0e9e14341407
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Flare_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c610d1fa9dc2d364f9d2001472d8a8eb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_011.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6d7680c2563577409cd99f603f87b1f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Shine_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c70405304f47193468f064a8326f3874
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Bottle_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c775c0648bb68144eb4697f9252aa313
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Glow_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7cd2b941745b994ba571abdb3ddeb3e
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Stripe_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8561b2622957d7459e24fbb289c536f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/ShopUI/ShopItem/ShopItem_Normal.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c894976ce637c4f4eadb2a5a5d553e32
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_007.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c98d647eb7ec6d34ea90e29bb4682889
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_005_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9d372b68259ff942bc44cabf2f38c93
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Other_leaf_017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca1a39c8536c226418f501f879777f1a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flare_004_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb0af49fd1041e0438eebdbb3bed9ad7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Beam_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cedb3e5cf19dc134bbeba51fd89207fd
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Line_002.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf157a38d7a8fd24691300b3ee2c6788
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Water_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf40564f95cb54b488b2c5f57b6190e1
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Smoke_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfcc95d2344baf94cb46bc06a7c7c549
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Other_015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0f4f730bb24eaf44b12e95071727ad8
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flare_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d14a6540bee96f04fb4dccc0027ed25d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/ChestRewardDialog/ChestRewardDialog_1.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2176706b6949fa4db22cb82519ffebf
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/ChestRewardDialog/ChestRewardDialog_1_normal.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d23695bb4658cd5469e03f1bb3bf1de8
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2a24289129a29b4ea57e45fe4e3a45b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Flare_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2b6e65e823b28c48a758d53743ef5cb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/StarChest_Mask/StarChest_Mask_Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2fb477ce77b4f045a42a6d49380bdf3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Smoke_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3bdd9a11a5a0da47bfe6477ec673c29
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/HomeUI/HomeModel_Scale/HomeModel_Scale.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5244561058f61048a92a7fa69ac5011
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Water_005.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d55f185a8dbfed34a935d652b4e4cd42
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Stripe_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5bf07f76dbeb354ea21405e7d54f387
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Lighting_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5cd95f720b0a9241bd78a55f7883142
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Wave_003.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d60816f64973a654d860c0bbc975768f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_001_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d63417f337f71c942a2a288265d027c3
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Jianshe_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6c5dda78af451b4c960a8c69d7291a5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Lighting_007_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d72104bbcfc837142a644ce5e86462f6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/DailyBonus/DailyBonusMainUI_Cover_D4_Turn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d728d49c12b742b4ab1b79ce25791d1b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_0111.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d779828272bfb22468eda183fcf3759c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/DailyBonus/DailyBonusMainUI_Cover_D2_Turn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d99fd27ac5f620b41b4c9a3b7ff55961
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Water_001.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9dcf80b45a34384a8410c3c04c72220
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_07.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daa95dc54b7f7a2439905bfd738847f6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/tex_star_05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dad7201f2b73a9d4e89da70d4cfb71fb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_003_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daede3f53a8ed6a44869bc2d27f63485
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Wave_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db9af05a703696243aec49f280de6410
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/MatchGame3D/MatchGameTopItem/MatchGameTopItem_Normal.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc0c0b80bd2c5174c9f76a2a6a0d2374
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Flag_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc5b0d74b4c3bfe48a9b871f518ee24f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_zTrail_Add_005.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dca93d437f177734e964057319e88298
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Sequins_006_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dce8f0820665e304fa581bb9e3432540
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match_Fx_Plane_Wheel_001.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd94336b5a2e6ac4c9079f7f7adc4951
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Line_005_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e002f9e2bccb5fd47a8a31ead6038779
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Flare_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4341e7c4e2a14549b629176f9f1799c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/ShopUI/ShopUI/ShopUI.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e50e215f94f37e14fb94a249f387c4af
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Wave_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5f77d3f4e4e3444a9e534173cc8de1c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Line_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e68d85825729cc149a3ae3e60682a5e6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Tailing_009_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7b3dea0ba9b5461bad94228b0a2a07c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e841601db36c45b4aa630e7e22bfb7b0
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Smoke_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e87d5083108c58140b8ce7e93a4da1d9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3D_Fx_UI_caihong_Add_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e87fc7047a5826746a97f88d2d0ff3e7
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8fa60b910744ab488d9b18de56bc6c4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Water_004.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e933254ee1b96b7469ca67bdf671339d
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Water_005_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea39c0989df969a48a5d04c0e886b85f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Lighting_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eba031fe0aad09545babaffc5219d630
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Flare_007_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec3aaf9455dae0345991e017ef7161fb
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/tex_dot_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecb8d41244f76f5499c864dd1f2d47df
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Smoke_002_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecddc4eb3d6f36f4cb650e8be65fb635
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Beam_003_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed70b881082f43e49b85432c1edaede4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Sequins_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee4dfaaaf393e954eac31bb1c281734a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/ChestRewardDialog/ChestRewardDialog_2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee938d9aab8eb0443a12bfb4c0576864
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Trajectory_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eeb74d8495403b04b934cab562187e63
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef8bbbb5c0c554022848675c93a68cc5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Glow_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef91c3bb59f046b47b9f9eaffa4fe3ff
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Circle_005.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef9427df86e4cb041ad1fb6671c38a56
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Splash_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0d9b9d87a51fbd4096f94883e6fe5b1
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Lighting_008_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f15b4fa86d55697418b7eec902e93e36
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f227dad2321ca0f43ac5c6292ffeb339
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Ice_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f22d0480dfc448f4b84e1843efc614ff
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2a7bb2cd2f6ead43941b212a7ed4985
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Smoke_007_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2abb751955154342a4d32016b23b17a
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Smoke_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2b8f3cee3be2be44b88ba4732e1a5bf
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_guangyun_Add_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f38e988fc62c85a49b355ca5f99d8932
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f49a13dad121a32409966904863e85fe
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/tex_jianshe_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4f51b5c8d4e849408f2b183d5a35cb5
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5076980353e00545b812ffe7b9f4dc8
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Mask_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5141bb5f116a4ff7b8ea2abf8e22014
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Beam_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f64d78f67a4256d48babf1ee0721a08c
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Line_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f698acb61b3c05044945faad17df7912
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Add_006.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7b08117d60e0cd488b056fe7fdbc293
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Circle_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7b4c84bfde473d479f68475f916fc52
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Dialog/StarChest/ChestRewardDialog/ChestRewardDialog_1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f82039753b7db3440b865d171e28eb9b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Alp_006.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f849eaeeaff1ba4449b92862ed97ccd4
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Alp_002.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8fd8fa657a4ded468679e2733fe13f6
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_005_Alp.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f905b69ec31eb2d42b7f60f8a34db963
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Shine_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f93c77721b75a4e64b7b98610ff40382
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Shine_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9a8acc79af90ed4b945c4d51ff5bf19
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Circle_011_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa707bdbb9307254aacde75c2f49b19b
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Match3d_Fx_Coin_fly/Match3d_Fx_Coin_fly_Seq_05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fabad7d19829f004da2e271292d73952
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Lighting_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fae00fc2ba5a97745b1e2cd164a3e569
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Animations/Common/Match3d_CommonReward_Fly_Anim/Match3d_CommonReward_Fly_Anim.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc0cfef0288d2824e937ae5639af8004
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Stripe_Alp_003.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc3793027d000f846bcdd578c953cea2
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Circle_002.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc3f244106208914b85f474bcf1a11d9
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Water_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc5f32696523d8446829be7ddd611f22
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/Match3d_Fx_Glow_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fca7a33f93b7eed48852ba95b1b1a004
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Rays_005_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdb8cf2494610c34d9b0a9cc36687655
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_zTrail_Add_002.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe15dcaa2a0697844b58e289ce9dee91
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Materials/Match3d_Fx_Water_007_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe947ac1289760640b51976d80c62d2f
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Wave_001.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff5077f9dbda33d46bf260b1062ac1df
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Models/Match3d_Fx_Wave_002.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffb1a95d746c488479314702a95a90f1
+    m_Address: Assets/Project/Feature/Address/m_Common/Effect/m_EffectRes/Textures/Particle/DailyBonus/DailyBonusMainUI_Cover_D6_Turn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9f3a271b73c2e47b3840821cfabcf8e5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9587cd2b31ee0463baa0056e68d2212d, type: 2}
+    - {fileID: 11400000, guid: 8629a5b5abe994ff3ba851470e9cd455, type: 2}

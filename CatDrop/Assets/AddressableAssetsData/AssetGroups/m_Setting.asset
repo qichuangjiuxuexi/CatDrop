@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: m_Setting
+  m_EditorClassIdentifier: 
+  m_GroupName: m_Setting
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9be492d6c04424ba49cc5f0b80b4befb
+  m_SerializeEntries:
+  - m_GUID: 0f118a5da65b640c5b3c719db1b82d2f
+    m_Address: Assets/Project/Feature/Address/m_Setting/TipsPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 780bf8ba32fb740cf97415a6c3c31b61
+    m_Address: Assets/Project/Feature/Address/m_Setting/PowerPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91bac379eabe54923b0211253705c6f3
+    m_Address: Assets/Project/Feature/Address/m_Setting/SettingsPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9f3a271b73c2e47b3840821cfabcf8e5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d6241e56986ec4ff9bb837be430673de, type: 2}
+    - {fileID: 11400000, guid: 195f36278f932411c83124438741e058, type: 2}

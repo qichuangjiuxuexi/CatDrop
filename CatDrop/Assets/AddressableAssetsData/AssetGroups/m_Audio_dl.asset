@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: m_Audio_dl
+  m_EditorClassIdentifier: 
+  m_GroupName: m_Audio_dl
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 21cb98ffcb8374cc09d3bca272d40634
+  m_SerializeEntries:
+  - m_GUID: 0a302c88b78678b4786dc0c48387139f
+    m_Address: Assets/Project/Feature/Address/m_Audio_dl/audio_win.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1241c180ad574404590d97a6644a8811
+    m_Address: Assets/Project/Feature/Address/m_Audio_dl/powerup.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 172337487c64bc74fa6d5a1ca11bab38
+    m_Address: Assets/Project/Feature/Address/m_Audio_dl/item_click.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 426482c3a46a00d43b1b21b60f6c7e08
+    m_Address: Assets/Project/Feature/Address/m_Audio_dl/item_merge.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd70b6d957ebd484b8f19c2842da18c0
+    m_Address: Assets/Project/Feature/Address/m_Audio_dl/button_click.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8cd0a993ad5da348b681fcd6377e945
+    m_Address: Assets/Project/Feature/Address/m_Audio_dl/coin_pick.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff940672e2e86da4c99ed2b593986e66
+    m_Address: Assets/Project/Feature/Address/m_Audio_dl/coin_appear.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9f3a271b73c2e47b3840821cfabcf8e5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6cf07daa3bb8e4a50bdab16de25bde04, type: 2}
+    - {fileID: 11400000, guid: e791cb4e42723486dbf4f15089b2bea8, type: 2}

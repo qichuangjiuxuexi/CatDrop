@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: m_Common
+  m_EditorClassIdentifier: 
+  m_GroupName: m_Common
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ec79fb6a437a54cf892dbf9e2c404303
+  m_SerializeEntries:
+  - m_GUID: 0147d9ec7c18d7048b49fe0c92bf0206
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/ic_plus.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07f674b96a4834e91997002b475b6b4a
+    m_Address: Assets/Project/Feature/Address/m_Common/Prefab_dl/CommonHeartBar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18c5dc02ecee04d0493f82b8b16b6469
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Mainmenu/line.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18eb32da0807e3e47bbb7d98e2f550f6
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Mainmenu/MF_unlocked_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b3ada826c1b743d5a84c51c0f01936a
+    m_Address: Assets/Project/Feature/Address/m_Common/Animation/Btn_dl/BaseButtonController.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 269dc6d65944cf14a9dcdb9d7db10402
+    m_Address: Assets/Project/Feature/Address/m_Common/Materials/Match3d_Fx_Glow_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26d1e55df423c474990a15606a07ec9e
+    m_Address: Assets/Project/Feature/Address/m_Common/Prefab_dl/CommonCoinBar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5507f668867a34aa88b22f5a741b6bc9
+    m_Address: Assets/Project/Feature/Address/m_Common/Animation/Popups/PopupClose.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f28130f0b51f4fbb83ec69627877269
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/close-btn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6390ad25fcd94ca4d8d0f5d540b9fe3b
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Mainmenu/MF_lvls_indicator_dot.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7473465693a807b43b1075afa40db458
+    m_Address: Assets/Project/Feature/Address/m_Common/Materials/Match3d_Fx_Beam_002_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80e5a06b7b47648babcafa65fd1c7e21
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Items/life_l.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 877a3ed0eaa3db74f9c02d8efc030796
+    m_Address: Assets/Project/Feature/Address/m_Common/Materials/Match3d_Fx_Shine_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8eb84762d00580348ad4e5586eef66f2
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/btn_close.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 914a360ea92b94a47864ace71719243d
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/btn_orange.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cbf66fdaf142eb4b963ede4114602b4
+    m_Address: Assets/Project/Feature/Address/m_Common/Materials/Match3d_Fx_Circle_001_Add.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a080fdd4446f73749b5e4bcf94e488dd
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/item_background
+      - Copy.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7fdaf9dbdd01a840b4c7799c9590c98
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/ic_indicator.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac02db8e867e92f4fa89f45d5066d6ec
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Mainmenu/watch_video.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adbfbcdcd842945b7b9b7eacedfbf089
+    m_Address: Assets/Project/Feature/Address/m_Common/Animation/Popups/Popup.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aeaea5b234fc9314aaa7bea675b9f1e1
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Mainmenu/MF_lvls_close_btn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2cd59f01127dbe46b6ef55574585e4b
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/square.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b91404f019019415c9fe610ad38f386d
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Mainmenu/Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba0a03defa8c959489f084f829b8258d
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Mainmenu/MF_menu_btn_back.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba29bf224b0e98749886870d9c1e43f7
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/close_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba52fc1f81927a940a9bea65231b5c04
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/grad_shine_square.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd0bb2ebf32d8c142802818c66c4592e
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/universal_back.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be3259dff0f20ec4d9eca7c5d7acebd0
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Mainmenu/MF_locked_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5125b9d264b04665ae6265ce9995ab8
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Items/life_r.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efeaa58b46fb5774bb1e12d3f9b7b573
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/Mainmenu/MF_background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4f13b0726a06724986bbd862bed2a04
+    m_Address: Assets/Project/Feature/Address/m_Common/Texture/General UI/panel_blue.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa8f1cb6536a444898c6a80ffaa8e607
+    m_Address: Assets/Project/Feature/Address/m_Common/Animation/Popups/PopupOpen.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9f3a271b73c2e47b3840821cfabcf8e5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fc56ec9bb8ec448bda5aec7009803b5f, type: 2}
+    - {fileID: 11400000, guid: 41ab3603f30834fecaf465ace4f5bc4c, type: 2}

@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: m_HomeUI
+  m_EditorClassIdentifier: 
+  m_GroupName: m_HomeUI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7016064aef07f4feba61b7f26abe28b3
+  m_SerializeEntries:
+  - m_GUID: 00e3954c7f10541b1aedf4a17ac11c6b
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Prefab_dl/RankPage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01112768c9bf84bed9d41eb6f884617a
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Prefab_dl/ShopPage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ed7acbd4069e9744831bf57e5a04ba9
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/coin_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36962d5480009449ea6fb6accdfe8366
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/giftbox02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dc4ea0971bb74281aef3107d5bef86d
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Prefab_dl/HeartPage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 405dda1ee450944a6a4ec978ed2e580c
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/life.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66be956892120a84bbda15b783d05267
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/coin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ff09186bec5f405da1c81df0a9fe282
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/prop30.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86b18e8ecef3ac84380b892171b2c65a
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/MF_play_btn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2aa8109a5d704710b69fdc776178433
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Prefab_dl/TeamPage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8c37af0b429e4a0c9ec939743b606cd
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/chest_slide_bg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acebee623bdd3f9418aeb64b4520e2f9
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/MF_game_pause_btn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c01d323c71a444eee86c9b81decafea1
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Prefab_dl/LobbyUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6d6eb196e47c3243aae96e2fb6aa5b3
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/MF_money_indicator.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd797f4e3d7b8411d8a020dfd631187e
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/LevelBarBackground.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3fec83213b254b9a92ac2676e8d7104
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Prefab_dl/HomePage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecb0d88377d1b40a7a12bc4f9bf11a1f
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/iocn_setting.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2f73c7cd8e8d4c80a923c315803fa52
+    m_Address: Assets/Project/Feature/Address/m_HomeUI/Texture/h_maskt.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9f3a271b73c2e47b3840821cfabcf8e5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 33fbb41f1f1514cdaad4166532ba4a6a, type: 2}
+    - {fileID: 11400000, guid: dfb366202d85542a9a8fd4bfc42ca98a, type: 2}
