@@ -1,0 +1,3 @@
+[submodule "CatDrop/Assets/GameSDK"]
+	path = CatDrop/Assets/GameSDK
+	url = git@github.com:qichuangjiuxuexi/GameSDK.git
